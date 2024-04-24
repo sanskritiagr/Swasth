@@ -1,0 +1,120 @@
+Disease,Symptoms,Specialist
+Influenza,"Fever, cough, sore throat, fatigue, body aches",General Practitioner (GP) or Infectious Disease Specialist
+Common Cold,"Runny or stuffy nose, sore throat, cough, congestion, mild fever",General Practitioner (GP)
+Migraine,"Intense headache, nausea, sensitivity to light and sound",Neurologist
+Chronic Fatigue Syndrome,"Persistent fatigue, muscle and joint pain, headaches, unrefreshing sleep",Rheumatologist or Internal Medicine Specialist
+Asthma,"Shortness of breath, wheezing, coughing, chest tightness",Pulmonologist or Allergist
+Pneumonia,"Fever, cough, difficulty breathing, chest pain, fatigue",Pulmonologist or Infectious Disease Specialist
+Diabetes,"Increased thirst, frequent urination, fatigue, blurred vision",Endocrinologist
+Heart Disease,"Chest pain or discomfort, shortness of breath, fatigue, nausea",Cardiologist
+Hypertension,"High blood pressure, headache, dizziness, chest pain",Cardiologist or Nephrologist
+Gastroenteritis,"Diarrhea, vomiting, abdominal pain, nausea, fever",Gastroenterologist
+Acid Reflux,"Heartburn, regurgitation, chest pain, difficulty swallowing",Gastroenterologist or Gastrointestinal (GI) Surgeon
+Allergic Rhinitis,"Sneezing, runny or stuffy nose, itchy or watery eyes, cough",Allergist or Immunologist
+Anemia,"Fatigue, weakness, pale or yellowish skin, shortness of breath",Hematologist
+Anxiety Disorders,"Excessive worrying, restlessness, fatigue, muscle tension, difficulty concentrating",Psychiatrist or Psychologist
+Appendicitis,"Sudden pain that begins around the navel and often shifts to the lower right abdomen, nausea, vomiting, loss of appetite",General Surgeon
+Arthritis,"Joint pain, stiffness, swelling, redness, decreased range of motion",Rheumatologist or Orthopedic Surgeon
+Atherosclerosis,"Chest pain or discomfort, shortness of breath, fatigue, nausea",Cardiologist or Vascular Surgeon
+Autism,"Impaired social interaction, communication challenges, repetitive behavior",Child Psychiatrist or Developmental Pediatrician
+Autoimmune Diseases,"Fatigue, joint pain, muscle weakness, fever, skin rashes",Rheumatologist or Immunologist
+Back Pain,"Muscle ache, shooting or stabbing pain, limited flexibility or range of motion",Orthopedic Surgeon or Pain Management Specialist
+Bacterial Infections,"Fever, chills, cough, diarrhea, abdominal pain, muscle aches",Infectious Disease Specialist
+Bipolar Disorder,"Manic episodes (elevated mood, inflated self-esteem), depressive episodes (sadness, hopelessness)",Psychiatrist or Psychologist
+Bladder Infections,"Urinary urgency, frequency, burning sensation during urination, cloudy urine",Urologist or Infectious Disease Specialist
+Brain Tumors,"Headaches, seizures, memory problems, mood changes, nausea",Neurologist or Neurosurgeon
+Breast Cancer,"Lump in the breast, changes in breast size or shape, nipple discharge",Oncologist or Breast Surgeon
+Bronchitis,"Cough, production of mucus, chest discomfort, fatigue",Pulmonologist or General Practitioner (GP)
+Bulimia Nervosa,"Binge eating followed by purging, fasting, excessive exercise",Psychiatrist or Psychologist
+Celiac Disease,"Diarrhea, abdominal pain, bloating, fatigue, weight loss",Gastroenterologist or Dietitian
+Cerebral Palsy,"Muscle stiffness or floppiness, poor coordination, tremors",Pediatrician or Neurologist
+Chlamydia,"Painful urination, discharge from the penis or vagina, abdominal pain",Urologist or Infectious Disease Specialist
+Chronic Obstructive Pulmonary Disease (COPD),"Shortness of breath, wheezing, chronic cough, chest tightness",Pulmonologist
+Colon Cancer,"Change in bowel habits, rectal bleeding, abdominal discomfort",Gastroenterologist or Colorectal Surgeon
+Congestive Heart Failure,"Shortness of breath, fatigue, swollen ankles or legs, rapid weight gain",Cardiologist
+Crohn's Disease,"Diarrhea, abdominal pain, weight loss, fatigue, blood in stool",Gastroenterologist
+Cystic Fibrosis,"Persistent cough, frequent lung infections, difficulty breathing, poor growth",Pulmonologist
+Deep Vein Thrombosis,"Swelling in one leg, leg pain or tenderness, red or discolored skin",Vascular Surgeon or Hematologist
+Dementia,"Memory loss, difficulty communicating, impaired judgment, personality changes",Neurologist or Geriatrician
+Depression,"Persistent sadness, loss of interest or pleasure, fatigue, changes in appetite or weight",Psychiatrist or Psychologist
+Dermatitis,"Itchy skin, red rash, dry or cracked skin, blisters, swelling",Dermatologist
+Diabetic Neuropathy,"Numbness or tingling in the feet or hands, burning pain, muscle weakness",Neurologist or Endocrinologist
+Diverticulitis,"Abdominal pain, fever, nausea, changes in bowel habits",Gastroenterologist or General Surgeon
+Ear Infections,"Ear pain, fluid drainage from the ear, hearing loss, fever",Otolaryngologist or Pediatrician
+Eating Disorders,"Preoccupation with food, body weight, or body shape, distorted body image, excessive exercise",Psychiatrist or Psychologist
+Endometriosis,"Pelvic pain, heavy periods, infertility, painful intercourse",Gynecologist or Reproductive Endocrinologist
+Epilepsy,"Seizures, unusual sensations, loss of consciousness",Neurologist or Epileptologist
+Esophageal Cancer,"Difficulty swallowing, weight loss, chest pain, hoarseness",Gastroenterologist or Thoracic Surgeon
+Fibromyalgia,"Widespread pain, fatigue, sleep disturbances, cognitive difficulties",Rheumatologist or Pain Management Specialist
+Gallstones,"Abdominal pain, nausea, vomiting, fever, yellowing of the skin or eyes",Gastroenterologist or General Surgeon
+Gastric Ulcers,"Abdominal pain, bloating, heartburn, nausea, vomiting",Gastroenterologist or Gastrointestinal (GI) Surgeon
+Glaucoma,"Vision loss, eye pain, headache, nausea, halos around lights",Ophthalmologist
+Gout,"Severe joint pain, swelling, redness, warmth",Rheumatologist
+Graves' Disease,"Weight loss, irritability, anxiety, bulging eyes, fatigue",Endocrinologist
+Hashimoto's Disease,"Fatigue, weight gain, intolerance to cold, dry skin, hair loss",Endocrinologist
+Hearing Loss,"Difficulty hearing conversations, asking people to repeat themselves, ringing in the ears",Otolaryngologist or Audiologist
+Hemorrhoids,"Rectal bleeding, itching or discomfort around the anus, pain or discomfort during bowel movements",Gastroenterologist or Colorectal Surgeon
+Hepatitis,"Fatigue, nausea, abdominal pain, jaundice (yellowing of the skin and eyes)",Hepatologist or Infectious Disease Specialist
+Hernia,"Bulge in the groin or abdominal wall, discomfort or pain, feeling of heaviness or weakness",General Surgeon
+HIV/AIDS,"Fever, fatigue, swollen lymph nodes, weight loss, night sweats",Infectious Disease Specialist or HIV Specialist
+Hypoglycemia,"Shakiness, sweating, hunger, dizziness, confusion",Endocrinologist or General Practitioner (GP)
+Hypothyroidism,"Fatigue, weight gain, cold intolerance, dry skin, hair loss",Endocrinologist
+Inflammatory Bowel Disease (IBD),"Diarrhea, abdominal pain, rectal bleeding, weight loss, fatigue",Gastroenterologist
+Insomnia,"Difficulty falling asleep, waking up often during the night, waking up too early, not feeling well-rested",Sleep Specialist or Psychiatrist
+Interstitial Cystitis,"Chronic pelvic pain, urinary urgency and frequency, pain during intercourse",Urologist or Urogynecologist
+Irritable Bowel Syndrome (IBS),"Abdominal pain, bloating, gas, diarrhea, constipation",Gastroenterologist
+Kidney Stones,"Severe pain in the side and back, below the ribs, pain that radiates to the lower abdomen and groin, painful urination",Urologist or Nephrologist
+Leukemia,"Fatigue, pale skin, fever, easy bruising or bleeding, enlarged lymph nodes",Hematologist or Oncologist
+Liver Cancer,"Abdominal pain or discomfort, jaundice, weight loss, nausea",Hepatologist or Oncologist
+Lung Cancer,"Persistent cough, chest pain, shortness of breath, coughing up blood",Pulmonologist or Oncologist
+Lupus,"Fatigue, joint pain, rash, fever, sensitivity to light",Rheumatologist
+Lyme Disease,"Rash, flu-like symptoms, joint pain and swelling, fatigue, facial paralysis",Infectious Disease Specialist
+Macular Degeneration,"Blurred or distorted vision, blind spots, difficulty seeing in low light",Ophthalmologist
+Malaria,"Fever, chills, sweats, headache, nausea, vomiting",Infectious Disease Specialist
+Melanoma,"Changes in mole size, color, or shape, new mole growth, itchiness or tenderness",Dermatologist or Oncologist
+Menopause,"Irregular periods, hot flashes, night sweats, mood swings, vaginal dryness",Gynecologist or Endocrinologist
+Multiple Sclerosis (MS),"Fatigue, numbness or weakness in one or more limbs, tremors, difficulty walking",Neurologist
+Myasthenia Gravis,"Muscle weakness, drooping eyelids, double vision, difficulty swallowing",Neurologist
+Narcolepsy,"Excessive daytime sleepiness, sudden loss of muscle tone, hallucinations, sleep paralysis",Sleep Specialist or Neurologist
+Nephrotic Syndrome,"Swelling, especially around the eyes and in the feet and ankles, foamy urine",Nephrologist
+Neurofibromatosis,"Soft bumps on or under the skin, spots, small, fleshy growths, bone deformities",Neurologist or Geneticist
+Obesity,"Excessive body weight, difficulty moving, shortness of breath, snoring",Endocrinologist or Bariatric Surgeon
+Obsessive-Compulsive Disorder (OCD),"Obsessive thoughts, compulsive behaviors (like washing or checking)",Psychiatrist or Psychologist
+Osteoarthritis,"Joint pain, stiffness, tenderness, decreased range of motion",Rheumatologist or Orthopedic Surgeon
+Osteoporosis,"Bone pain, fractures (especially in the spine, hip, or wrist), loss of height over time",Endocrinologist or Rheumatologist
+Ovarian Cancer,"Abdominal bloating or swelling, pelvic pain or pressure, difficulty eating or feeling full quickly",Gynecologic Oncologist or Oncologist
+Pancreatic Cancer,"Abdominal pain or discomfort, jaundice, unexplained weight loss, loss of appetite",Gastroenterologist or Oncologist
+Pancreatitis,"Upper abdominal pain, nausea, vomiting, fever, rapid pulse",Gastroenterologist or General Surgeon
+Parkinson's Disease,"Tremors, stiffness, slow movement, impaired balance and coordination",Neurologist or Movement Disorder Specialist
+Pelvic Inflammatory Disease (PID),"Pelvic pain, abnormal vaginal discharge, pain during sex, fever",Gynecologist or Infectious Disease Specialist
+Peptic Ulcers,"Stomach pain, bloating, nausea, vomiting, heartburn, dark stools",Gastroenterologist or General Surgeon
+Peripheral Neuropathy,"Numbness or tingling in the hands or feet, sharp, jabbing, throbbing, or burning pain",Neurologist
+Polycystic Ovary Syndrome (PCOS),"Irregular periods, excess hair growth, acne, weight gain, difficulty getting pregnant",Gynecologist or Endocrinologist
+Post-Traumatic Stress Disorder (PTSD),"Flashbacks, nightmares, severe anxiety, intrusive thoughts, avoidance",Psychiatrist or Psychologist
+Prostate Cancer,"Difficulty urinating, blood in semen, erectile dysfunction, pain in the hips or lower back",Urologist or Oncologist
+Psoriasis,"Red patches of skin covered with silvery scales, itching or burning, swollen and stiff joints",Dermatologist or Rheumatologist
+Rheumatoid Arthritis,"Joint pain and swelling, stiffness, fatigue, fever",Rheumatologist
+Rosacea,"Redness on the face, visible blood vessels, bumps or pimples, eye irritation",Dermatologist
+Sarcoidosis,"Fatigue, fever, swollen lymph nodes, weight loss, skin lesions",Pulmonologist or Rheumatologist
+Schizophrenia,"Hallucinations, delusions, disorganized thinking, flat affect",Psychiatrist or Psychologist
+Scoliosis,"Uneven shoulders, one shoulder blade that appears more prominent than the other, uneven waist",Orthopedic Surgeon or Physical Therapist
+Sexually Transmitted Infections (STIs),"Painful urination, genital itching, unusual discharge, sores or bumps",Infectious Disease Specialist
+Sinusitis,"Facial pain, nasal congestion, headache, thick nasal discharge",Otolaryngologist or Allergist
+Skin Cancer,"Changes in the skin, such as a new growth or sore that doesn't heal, changes in the size, shape, or color of a mole",Dermatologist or Oncologist
+Sleep Apnea,"Loud snoring, gasping for air during sleep, daytime sleepiness, difficulty concentrating",Sleep Specialist or Pulmonologist
+Stomach Cancer,"Abdominal pain or discomfort, bloating, nausea, vomiting, loss of appetite",Gastroenterologist or Oncologist
+Strep Throat,"Sore throat, difficulty swallowing, fever, swollen lymph nodes",General Practitioner (GP) or Infectious Disease Specialist
+Stroke,"Sudden numbness or weakness in the face, arm, or leg, especially on one side of the body, confusion, trouble speaking or understanding speech",Neurologist or Stroke Specialist
+Testicular Cancer,"Lump or swelling in the testicle, pain or discomfort in the testicle or scrotum, enlargement of the testicle",Urologist or Oncologist
+Thyroid Cancer,"Lump or swelling in the neck, difficulty swallowing, hoarseness",Endocrinologist or Oncologist
+Tinnitus,"Ringing, buzzing, roaring, clicking, or hissing sound in one or both ears",Otolaryngologist or Audiologist
+Ulcerative Colitis,"Diarrhea, abdominal pain and cramping, rectal bleeding, urgency to defecate",Gastroenterologist or Colorectal Surgeon
+Urinary Incontinence,"Urinary leakage, urgency, frequent urination, nocturia (waking up at night to urinate)",Urologist or Urogynecologist
+Urinary Tract Infections (UTIs),"Frequent, painful urination, cloudy or bloody urine, strong-smelling urine",Urologist or Infectious Disease Specialist
+Uterine Fibroids,"Heavy menstrual bleeding, pelvic pain or pressure, frequent urination, constipation",Gynecologist or Reproductive Endocrinologist
+Vertigo,"Dizziness, feeling off balance, spinning sensation",Otolaryngologist or Neurologist
+Vitamin Deficiencies,"Fatigue, weakness, brittle nails, hair loss, mouth sores",Nutritionist or General Practitioner (GP)
+Vulvodynia,"Chronic vulvar pain, burning, itching, soreness",Gynecologist or Pain Management Specialist
+Whooping Cough,"Severe coughing fits, whooping sound when inhaling after coughing",General Practitioner (GP) or Infectious Disease Specialist
+Yeast Infections,"Itching, burning, redness, swelling, vaginal discharge",Gynecologist or Infectious Disease Specialist
+Zika Virus,"Fever, rash, joint pain, conjunctivitis (red eyes), muscle pain",General Practitioner (GP) or Infectious Disease Specialist
