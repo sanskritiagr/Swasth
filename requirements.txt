@@ -4,3 +4,4 @@ numpy
 sklearn
 seaborn
 matplotlib
+streamlit==1.24.1
