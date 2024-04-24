@@ -1,9 +1,15 @@
 # SwasthAI
 
-##Description
+## Description
 SwasthAI is an application designed to assist users in predicting diseases and recommending specialists based on their symptoms. Leveraging machine learning models, the application analyzes user input to provide accurate predictions and match users with relevant healthcare professionals. Additionally, the application utilizes doctors' data and patient ratings to ensure personalized recommendations tailored to each user's needs.
 
-![image](https://github.com/sanskritiagr/SwasthAI/assets/96240350/bd1a8e75-1705-4ff3-bb1a-86847adfcc5f)
+## Table of Contents
+
+1. [Description](#Description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+
 
 
 ## How to run the file
@@ -53,6 +59,9 @@ To install and run SwasthAI locally, follow these steps:
 3. Then we login using our patient-id(values from 1-1000) and password(123). We can also choose 'New user'.
 4. If new user, then we tell them ratings of doctor based on previous users'/patients' ratings.
 5. If an existing user, we tell him ratings personalized for him.
+
+
+![image](https://github.com/sanskritiagr/SwasthAI/assets/96240350/bd1a8e75-1705-4ff3-bb1a-86847adfcc5f)
 
 ## Models used
 1. kNN, Random Forest Classifier, Multinomial Naive Bayes' Classifier, and Support Vector Machine are used to predict the disease and specialist.
