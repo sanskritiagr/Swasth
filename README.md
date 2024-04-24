@@ -6,9 +6,12 @@ SwasthAI is an application designed to assist users in predicting diseases and r
 ## Table of Contents
 
 1. [Description](#Description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
+2. [How to run the file](#Howtorunthefile)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Pipeline](#pipeline)
+6. [Models Used](#modelsused)
+7. [Accuracy](#accuracy)
 
 
 
