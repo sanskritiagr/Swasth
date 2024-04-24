@@ -58,18 +58,18 @@ To install and run SwasthAI locally, follow these steps:
 
 ## Data
 The data used are:
-1. [Symptoms Mapping: ](#https://github.com/sanskritiagr/SwasthAI/blob/main/data.csv) It contains diseases mapped with the symptoms and the specialist to consult. 
-2. [Doctor Table: ](#https://github.com/sanskritiagr/SwasthAI/blob/main/doc_table.csv) It contains all the information about the doctor including their name, specialty, phone, hospital in which they work, their opening and closing time along with the latitudes to their location. The table is generated, for which the code can be viewed in this [file](#https://github.com/sanskritiagr/SwasthAI/blob/main/Generate_Doc_Table.ipynb).
+1. [Symptoms Mapping: ](https://github.com/sanskritiagr/SwasthAI/blob/main/data.csv) It contains diseases mapped with the symptoms and the specialist to consult. 
+2. [Doctor Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/doc_table.csv) It contains all the information about the doctor including their name, specialty, phone, hospital in which they work, their opening and closing time along with the latitudes to their location. The table is generated, for which the code can be viewed in this [file](#https://github.com/sanskritiagr/SwasthAI/blob/main/Generate_Doc_Table.ipynb).
 3. [Rating Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/rating.csv) It is the table of various patients registered with our application and the ratings they gave for doctors they have consulted in the past. The data is generated, for which the code can be viewed in this [file](#https://github.com/sanskritiagr/SwasthAI/blob/main/Rating_Table_Gen.ipynb)
 
 
 ## Pipeline
 
 1. Takes symptoms as input from the user. Stores it in the form of list.
-2. Passes this list to a function(predict_disease from [disease_predict.py](#https://github.com/sanskritiagr/SwasthAI/blob/main/disease_predict.py) and predict from [specialist_predict.py](#https://github.com/sanskritiagr/SwasthAI/blob/main/specialist_predict.py)) which outputs the disease and the specialist.
+2. Passes this list to a function(predict_disease from [disease_predict.py](https://github.com/sanskritiagr/SwasthAI/blob/main/disease_predict.py) and predict from [specialist_predict.py](https://github.com/sanskritiagr/SwasthAI/blob/main/specialist_predict.py)) which outputs the disease and the specialist.
 3. Then we login using our patient-id(values from 1-1000) and password(123). We can also choose 'New user'.
 4. If new user, then we tell them ratings of doctors based on previous users'/patients' ratings.
-5. If an existing user, we tell him ratings personalized for him. The functions for which are present in [doctor_rating.py](#https://github.com/sanskritiagr/SwasthAI/blob/main/doctor_rating.py)
+5. If an existing user, we tell him ratings personalized for him. The functions for which are present in [doctor_rating.py](https://github.com/sanskritiagr/SwasthAI/blob/main/doctor_rating.py)
 
 
 ![image](https://github.com/sanskritiagr/SwasthAI/assets/96240350/bd1a8e75-1705-4ff3-bb1a-86847adfcc5f)
