@@ -51,10 +51,11 @@ To install and run SwasthAI locally, follow these steps:
 
 ## Usage
 
-1. Choose your symptoms.
-2. Click the "Submit" button to generate predictions for the disease and recommended specialist.
-3. Then login(if you are an existing user) using a patient-id(values from 1-1000) and password:123. If you are a new user simply choose New User.
-4. Now, you can see all the doctors available.
+1. Open the application. Either run [here](https://swasth.streamlit.app/) directly or follow the commands in [Installation](#installation)
+2. Choose your symptoms.
+3. Click the "Submit" button to generate predictions for the disease and recommended specialist.
+4. Then login(if you are an existing user) using a patient-id(values from 1-1000) and password:123. If you are a new user simply choose New User.
+5. Now, you can see all the doctors available.
 
 ## Data
 The data used are:
@@ -77,7 +78,7 @@ The data used are:
 ## Models used
 1. kNN, Random Forest Classifier, Multinomial Naive Bayes' Classifier, and Support Vector Machine are used to predict the disease and specialist.
 2. We have also ensembled these models using hard voting.
-3. Also a model is created for collaborative filtering of doctors for various patients.(see doctor_rating.py file to learn more about it)
+3. Also a model is created for collaborative filtering of doctors for various patients.(see [doctor_rating.py](https://github.com/sanskritiagr/SwasthAI/blob/main/doctor_rating.py) file to learn more about it)
 
 ## Accuracy 
 We got 93.9% accuracy for specialist recommendation and 88.9% for disease prediction.
