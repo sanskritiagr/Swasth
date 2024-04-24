@@ -3,19 +3,6 @@ import pickle
 import pandas as pd
 from datetime import time
 
-
-# Load the pre-trained model
-# with open('spec_symp.pkl', 'rb') as file:
-#     model = pickle.load(file)
-
-# from google.colab import files
-# files.download('dis_symp.pkl')
-
-
-
-# with open('dis_symp.pkl', 'rb') as file:
-#     model2 = pickle.load(file)
-
 import disease_predict
 import specialist_predict
 import doctor_rating
