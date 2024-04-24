@@ -59,8 +59,8 @@ To install and run SwasthAI locally, follow these steps:
 ## Data
 The data used are:
 1. [Symptoms Mapping: ](https://github.com/sanskritiagr/SwasthAI/blob/main/data.csv) It contains diseases mapped with the symptoms and the specialist to consult. 
-2. [Doctor Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/doc_table.csv) It contains all the information about the doctor including their name, specialty, phone, hospital in which they work, their opening and closing time along with the latitudes to their location. The table is generated, for which the code can be viewed in this [file](#https://github.com/sanskritiagr/SwasthAI/blob/main/Generate_Doc_Table.ipynb).
-3. [Rating Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/rating.csv) It is the table of various patients registered with our application and the ratings they gave for doctors they have consulted in the past. The data is generated, for which the code can be viewed in this [file](#https://github.com/sanskritiagr/SwasthAI/blob/main/Rating_Table_Gen.ipynb)
+2. [Doctor Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/doc_table.csv) It contains all the information about the doctor including their name, specialty, phone, hospital in which they work, their opening and closing time along with the latitudes to their location. The table is generated, for which the code can be viewed in [Generate_Doc_Table.ipynb](https://github.com/sanskritiagr/SwasthAI/blob/main/Generate_Doc_Table.ipynb).
+3. [Rating Table: ](https://github.com/sanskritiagr/SwasthAI/blob/main/rating.csv) It is the table of various patients registered with our application and the ratings they gave for doctors they have consulted in the past. The data is generated, for which the code can be viewed in [Rating_Table_Gen.ipynb](https://github.com/sanskritiagr/SwasthAI/blob/main/Rating_Table_Gen.ipynb)
 
 
 ## Pipeline
